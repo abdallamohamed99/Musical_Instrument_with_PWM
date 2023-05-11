@@ -5,3 +5,6 @@ what button is pressed. When a keypad button press is detected, depending on whi
 for the desired output frequency. 
 The calculated period is then used to calculate how many clock cycles the counter needs to count before overflowing. 
 The PWM signal is then directly delivered to a headphone to output the desired tone.
+
+##Demo
+https://youtube.com/shorts/GC2yrCCgNwM?feature=share
